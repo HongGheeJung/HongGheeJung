@@ -1,16 +1,32 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=깃허브%20특강&fontSize=90)
 
-<!--
-**HongGheeJung/HongGheeJung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HongGheeJung)](https://github.com/HongGheeJung/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HongGheeJung &layout=compact)](https://github.com/HongGheeJung/github-readme-stats)
+
+
+# heading1 Hi there 👋
+## heading2 Hi there 👋
+### heading3 Hi there 👋
+#### heading4 Hi there 👋
+##### heading5 Hi there 👋
+---
+
+**bold**<br>
+*italic*<br>
+~~strikethrough~~<br>
+
+* 1번
+* 2번
+- 1번
+- 2번
+- [링크이름](https://www.naver.com)
+
+```
+print("안녕")
+```
+
+:smirk:
+:joy:
+:rage:
